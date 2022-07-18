@@ -20,4 +20,4 @@ Hi, My name is Jisu Jang
 I'm going to university and studying for my future.
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScriptF7DF1E?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=firebase&logoColor=white"/>
