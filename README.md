@@ -19,11 +19,13 @@ Hi, My name is Jisu Jang
 
 I'm going to university and studying for my future.
 
--Studying
+-Studying-
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
--Tools
+-Tools-
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual_Studio_Code&logoColor=white"/>
