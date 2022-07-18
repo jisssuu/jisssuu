@@ -25,3 +25,4 @@ I'm going to university and studying for my future.
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=firebase&logoColor=white"/>
